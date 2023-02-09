@@ -1,7 +1,7 @@
 # Simple Rust Guessing Game
 <h2><strong>RUST 101</strong></h2>
 <br>
-Studying Rust from <a href="https://doc.rust-lang.org/stable/book/">The Rust Book </a>
+Studying Rust from <a href="https://doc.rust-lang.org/stable/book/">“The book,”  The Rust Programming Language </a>
 <br>
 Build and run with default Rust installation
 
